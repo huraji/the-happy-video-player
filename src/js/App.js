@@ -4,10 +4,10 @@ import { Video } from './Video';
 import { Menu } from './Menu';
 
 const VIDEOS = {
-  apnea: 'https://www.youtube.com/watch?v=zyg1bjZ-0MM',
-  mai: 'https://www.youtube.com/watch?v=7iFUtgy-YtY',
-  cute: 'https://www.youtube.com/watch?v=fl5yVYJWDcY',
-  dasein: 'https://www.youtube.com/watch?v=XAg4VHP0Eic'
+  apnea: 'https://www.youtube.com/embed/zyg1bjZ-0MM',
+  mai: 'https://www.youtube.com/embed/7iFUtgy-YtY',
+  cute: 'https://www.youtube.com/embed/fl5yVYJWDcY',
+  dasein: 'https://www.youtube.com/embed/XAg4VHP0Eic'
 };
 
 class App extends React.Component {
