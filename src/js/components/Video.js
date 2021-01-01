@@ -4,7 +4,7 @@ export class Video extends React.Component {
   render() {
     return (
       <div>
-        <iframe width="420" height="315" src={this.props.src} />
+        <iframe width="100%" height="500" src={this.props.src} />
       </div>
     );
   }

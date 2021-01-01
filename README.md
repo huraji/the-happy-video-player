@@ -1,8 +1,9 @@
-# Z4 Video Player
-Zona 4 Video Player with React.
+# The Happy Video Player
+The happy video player is meant to spread some joy around. It fetches 10 funny videos from YouTube per time, based on specific positive words. 
+I hope you enjoy it.
 
-## Video list
-- https://www.youtube.com/watch?v=zyg1bjZ-0MM
-- https://www.youtube.com/watch?v=7iFUtgy-YtY
-- https://www.youtube.com/watch?v=fl5yVYJWDcY
-- https://www.youtube.com/watch?v=XAg4VHP0Eic
+## Install
+- Install yarn
+- Run `yarn install`
+- Run `yarn build` (for production) or `yarn dev` (for development)
+- Go to `http://localhost:1234` (parcel.js default port)
